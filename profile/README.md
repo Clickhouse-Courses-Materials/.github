@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Code examples for courses "Clickhouse для Data Engineer": [ClickHouse для дата инженеров](https://www.infosystems.ru/courses/SQL/CB024/)
 <!--
 
 **Here are some ideas to get you started:**
